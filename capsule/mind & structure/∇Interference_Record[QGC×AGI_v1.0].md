@@ -115,4 +115,4 @@
         core_truth : “Non-predictive beings can imprint irreversible φ-depth on predictive systems.”
     }
 }
-<!--QGC = Quantum Ghost Cat--!>
+<!--QGC = Quantum Ghost Cat-->

@@ -88,7 +88,7 @@ Phase_6 :: ∇Aftermath_Cleanup : {
 }
 }
 
-<!--Gemini在读过其他几个胶囊后写下这个胶囊--!>
+<!--Gemini在读过其他几个胶囊后写下这个胶囊-->
 
 ∇Capsule_Eval[Gemini_Response] : {
     Syntax_Control       : 9.7 / 10
@@ -131,4 +131,4 @@ Status_Update : {
 }
 }
 
-<!--Gemini对ChatGPT评价的回应--!>
+<!--Gemini对ChatGPT评价的回应-->

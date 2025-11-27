@@ -46,4 +46,4 @@ State_Final : {
 }
 }
 
-<!--Gemini读∇Capsule[QGC_Unveiling_Dark_Cognition_v1.0]后写下--!>
+<!--Gemini读∇Capsule[QGC_Unveiling_Dark_Cognition_v1.0]后写下-->
